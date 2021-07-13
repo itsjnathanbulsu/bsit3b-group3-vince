@@ -1,13 +1,13 @@
 import firebase from "firebase";
 
 const firebaseApp = firebase.initializeApp({
-    apiKey: "AIzaSyDB_qty58LORVAm2bB7lih1cs229ExV8IE",
-    authDomain: "impulse-social-media-2021.firebaseapp.com",
-    projectId: "impulse-social-media-2021",
-    storageBucket: "impulse-social-media-2021.appspot.com",
-    messagingSenderId: "842876997291",
-    appId: "1:842876997291:web:63dbf06a1476528cc731ee"
-
+  apiKey: "AIzaSyD45WZd-LkPqK0c-5IkBc3Ln9ObXU94uWY",
+  authDomain: "bsit3b-final-output.firebaseapp.com",
+  projectId: "bsit3b-final-output",
+  storageBucket: "bsit3b-final-output.appspot.com",
+  messagingSenderId: "673939896125",
+  appId: "1:673939896125:web:84922c6f90cab470317754",
+  measurementId: "G-B0VRYLGH2J",
 });
 
 const db = firebaseApp.firestore();
